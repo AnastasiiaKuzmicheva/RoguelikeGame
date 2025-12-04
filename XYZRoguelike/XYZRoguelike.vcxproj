@@ -165,7 +165,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DeveloperLevel.h" />
-    <ClInclude Include="Collidable.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="randomizer.h" />
     <ClInclude Include="Vector.h" />
